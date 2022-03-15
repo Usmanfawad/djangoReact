@@ -1,4 +1,4 @@
-# Learning and playing around with django - Changed README
+# A twitter clone using Django/React!!
 
 
 ## Run Django server
