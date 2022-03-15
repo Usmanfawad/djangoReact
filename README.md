@@ -1,4 +1,4 @@
-# A twitter clone using Django/React!!
+# A notes applicaton using Django/React!!
 
 
 ## Run Django server
